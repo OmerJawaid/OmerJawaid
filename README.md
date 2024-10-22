@@ -1,4 +1,3 @@
-#Languages and Technologies worked on :
 ![C++](https://img.shields.io/badge/C++-11-blue)
 ![Java](https://img.shields.io/badge/Java-8-orange)
 ![JavaFX](https://img.shields.io/badge/JavaFX-11-purple)
