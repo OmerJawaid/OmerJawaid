@@ -1,5 +1,4 @@
-## Hi there 👋
-Myself Muhammad Omer Jawaid and here are some of the technologies and languages I have worked with:
+##Languages and Technologies worked on :
 ![C++](https://img.shields.io/badge/C++-11-blue)
 ![Java](https://img.shields.io/badge/Java-8-orange)
 ![JavaFX](https://img.shields.io/badge/JavaFX-11-purple)
