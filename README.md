@@ -1,4 +1,12 @@
 ## Hi there 👋
+Myself Muhammad Omer Jawaid and here are some of the technologies and languages I have worked with:
+![C++](https://img.shields.io/badge/C++-11-blue)
+![Java](https://img.shields.io/badge/Java-8-orange)
+![JavaFX](https://img.shields.io/badge/JavaFX-11-purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![React](https://img.shields.io/badge/React-16.13.1-blue)
+![Node.js](https://img.shields.io/badge/Node.js-12.18.3-green)
+![WordPress](https://img.shields.io/badge/WordPress-5.5-blue)
 
 <!--
 **OmerJawaid/OmerJawaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
